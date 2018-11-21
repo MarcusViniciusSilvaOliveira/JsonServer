@@ -1,8 +1,8 @@
 {
 	"ClinicData":
 	[
-		{"Name": "First Clinic"},
-		{"Address": "Some Street"},
-		{"PhoneNumber": "0000-0000"},
+		{"Name": "First Clinic", "Address": "Some Street", "PhoneNumber": "0000-0000"},
+		{"Name": "Second Clinic", "Address": "Some Street", "PhoneNumber": "1111-1111"},
+		{"Name": "Third Clinic", "Address": "Some Street", "PhoneNumber": "2222-2222"}
 	]
 }
