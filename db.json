@@ -1,13 +1,13 @@
 {
 	"ClinicData":
 	[
-		{"Name": "First Clinic", "Address": "First Street", "PhoneNumber": "1111-1234"},
-		{"Name": "Second Clinic", "Address": "Second Street", "PhoneNumber": "2222-2345"},
-		{"Name": "Third Clinic", "Address": "Third Street", "PhoneNumber": "3333-3456"},
-		{"Name": "Fourth Clinic", "Address": "Fourth Street", "PhoneNumber": "4444-4567"},
-		{"Name": "Fifth Clinic", "Address": "Fifth Street", "PhoneNumber": "5555-5678"},
-		{"Name": "Sixth Clinic", "Address": "Sixth Street", "PhoneNumber": "6666-6789"},
-		{"Name": "Seventh Clinic", "Address": "Seventh Street", "PhoneNumber": "7777-7891"},
-		{"Name": "Eighth Clinic", "Address": "Eighth Street", "PhoneNumber": "8888-8912"}
+		{"Id": 1, "Name": "First Clinic", "Address": "First Street", "PhoneNumber": "1111-1234"},
+		{"Id": 2, "Name": "Second Clinic", "Address": "Second Street", "PhoneNumber": "2222-2345"},
+		{"Id": 3, "Name": "Third Clinic", "Address": "Third Street", "PhoneNumber": "3333-3456"},
+		{"Id": 4, "Name": "Fourth Clinic", "Address": "Fourth Street", "PhoneNumber": "4444-4567"},
+		{"Id": 5, "Name": "Fifth Clinic", "Address": "Fifth Street", "PhoneNumber": "5555-5678"},
+		{"Id": 6, "Name": "Sixth Clinic", "Address": "Sixth Street", "PhoneNumber": "6666-6789"},
+		{"Id": 7, "Name": "Seventh Clinic", "Address": "Seventh Street", "PhoneNumber": "7777-7891"},
+		{"Id": 8, "Name": "Eighth Clinic", "Address": "Eighth Street", "PhoneNumber": "8888-8912"}
 	]
 }
